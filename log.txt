@@ -1,0 +1,12 @@
+1697717323996 : POST : /api/users
+1697717326156 : GET : /api/users/1004
+1697717328593 : GET : /api/users
+1697717810043 : GET : /api/users
+1697718073933 : POST : /api/users
+1697718087883 : GET : /api/users
+1697718693258 : POST : /api/users
+1697718715744 : POST : /api/users
+1697718720981 : GET : /api/users
+1697718743998 : GET : /api/users
+1697718766078 : POST : /api/users
+1697718770309 : POST : /api/users
